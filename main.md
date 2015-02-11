@@ -166,15 +166,10 @@ ostrosti a teda ostrá.
 Na následujúcich fotografiách je ukážka vplyvu clony na hĺbku ostrosti.
 Taktiež je vidieť dopad difrakcie pre clonu f16. Všetky fotografie sú
 zaostrené na text v spodnej časti ciferníku.
+
 ![clona 5.6](samples/clock-f5_6.jpg)
+
 ![clona 13](samples/clock-f13.jpg)
+
 ![clona 18](samples/clock-f18.jpg)
 
-First section
--------------
-
-Your text goes here.
-
-### A subsection
-
-More text.
