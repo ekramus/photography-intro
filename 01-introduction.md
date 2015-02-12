@@ -1,7 +1,7 @@
 Úvod
 ====
 
-História fotografie nie je moc dlhá, ale je plná zvratov a zmien. Za necelé dve storočia sa zmenila z alchýmie a zábavky zopár “divných” jedincov na nedeliteľnú súčasť našeho každodenného života. Od obrovských krabíc po foťák v každom mobile. Možnosť fotiť má v súčasnosti už skoro každý. Bohužiaľ ale väčšina ľudí cvaká obrovské kvantá obrázkov bez akéhokoľvek zamyslenia sa nad tým, čo vlastne chcú zachytiť. Tento stručný návod by rád čitateľa jemne posotil smerom k zamysleniu sa, aby necvakal, ale fotil.
+História fotografie nie je moc dlhá, ale je plná zvratov a zmien. Za necelé dve storočia sa zmenila z alchýmie a zábavky zopár "divných" jedincov na nedeliteľnú súčasť našeho každodenného života. Od obrovských krabíc po foťák v každom mobile. Možnosť fotiť má v súčasnosti už skoro každý. Bohužiaľ ale väčšina ľudí cvaká obrovské kvantá obrázkov bez akéhokoľvek zamyslenia sa nad tým, čo vlastne chcú zachytiť. Tento stručný návod by rád čitateľa jemne posotil smerom k zamysleniu sa, aby necvakal, ale fotil.
 
 Ako vzniká fotografia
 ---------------------
