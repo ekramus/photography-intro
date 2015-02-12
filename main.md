@@ -7,78 +7,38 @@ title: Brief Article
 Úvod
 ====
 
-História fotografie nie je moc dlhá, ale je plná zvratov a zmien. Za
-necelé dve storočia sa zmenila z alchýmie a zábavky zopár “divných”
-jedincov na nedeliteľnú súčasť našeho každodenného života. Od obrovských
-krabíc po foťák v každom mobile. Možnosť fotiť má v súčasnosti už skoro
-každý. Bohužiaľ ale väčšina ľudí cvaká obrovské kvantá obrázkov bez
-akéhokoľvek zamyslenia sa nad tým, čo vlastne chcú zachytiť. Tento
-stručný návod by rád čitateľa jemne posotil smerom k zamysleniu sa, aby
-necvakal, ale fotil.
+História fotografie nie je moc dlhá, ale je plná zvratov a zmien. Za necelé dve storočia sa zmenila z alchýmie a zábavky zopár “divných” jedincov na nedeliteľnú súčasť našeho každodenného života. Od obrovských krabíc po foťák v každom mobile. Možnosť fotiť má v súčasnosti už skoro každý. Bohužiaľ ale väčšina ľudí cvaká obrovské kvantá obrázkov bez akéhokoľvek zamyslenia sa nad tým, čo vlastne chcú zachytiť. Tento stručný návod by rád čitateľa jemne posotil smerom k zamysleniu sa, aby necvakal, ale fotil.
 
 Ako vzniká fotografia
 ---------------------
 
-Vznik fotografie má dve časti – predstavu a samotné zachytenie obrazu.
-Pre dobré fotografie sú potrebné obidva kroky. Predstava, vizualizácia
-scény, je vlastne priama väzba na výtvarné umenie. Pokiaľ fotograf nemá
-predstavu o tom, čo chce odfotiť, je to to isté, ako keby obraz malovala
-opička. Síce na plátne budú farebné fľaky, ich citová hodnota pre
-ostatných ľudí ale bude pravdepodobne veľmi nízka. Naopak, keď má
-fotograf predstavu o tom, čo chce odfotiť a aktívne to hľadá, výrazne
-zvyšuje svoje šance na zisk výnimočnej fotografie. Aby fotograf bol
-schopný zachytiť predstavu správne, potrebuje ovládať použitý fotoaparát
-a všetky následovné kroky až po publikovanie fotografie. V súčasnosti sa
-teda predpokladá istá úroveň počítačovej gramotnosti. Touto časťou
-začneme, dá sa totiž zvládnuť výrazne rýchlejšie =).
+Vznik fotografie má dve časti – predstavu a samotné zachytenie obrazu. Pre dobré fotografie sú potrebné obidva kroky. Predstava, vizualizácia scény, je vlastne priama väzba na výtvarné umenie. Pokiaľ fotograf nemá predstavu o tom, čo chce odfotiť, je to to isté, ako keby obraz malovala opička. Síce na plátne budú farebné fľaky, ich citová hodnota pre ostatných ľudí ale bude pravdepodobne veľmi nízka. Naopak, keď má fotograf predstavu o tom, čo chce odfotiť a aktívne to hľadá, výrazne zvyšuje svoje šance na zisk výnimočnej fotografie. Aby fotograf bol schopný zachytiť predstavu správne, potrebuje ovládať použitý fotoaparát a všetky následovné kroky až po publikovanie fotografie. V súčasnosti sa teda predpokladá istá úroveň počítačovej gramotnosti. Touto časťou začneme, dá sa totiž zvládnuť výrazne rýchlejšie =).
 
 Práca s fototechnikou
 =====================
 
-Keď na fotoaparáte stlačíte spúšť, donútite vlastne svetlo, aby bolo
-vaším maliarom. Ako je to ale možné?
+Keď na fotoaparáte stlačíte spúšť, donútite vlastne svetlo, aby bolo vaším maliarom. Ako je to ale možné?
 
 Ako to celé funguje
 -------------------
 
-Objektív premieta svetlo na snímaciu plochu, v súčasnosti digitálny
-snímač. Toto svetlo postupne vytvára finálnu fotografiu. Je to to isté,
-ako keď maliar postupne maľuje obraz.
+Objektív premieta svetlo na snímaciu plochu, v súčasnosti digitálny snímač. Toto svetlo postupne vytvára finálnu fotografiu. Je to to isté, ako keď maliar postupne maľuje obraz.
 
-Aby fotoaparát mohol vôbec zachytiť nejakú fotografiu, potrebuje
-objektív. Každý objektív má niekoľko parametrov, najpodstatnejšími sú
-ohnisková vzdialenosť a tzv svetelnosť. Ďalšie parametre ovplyvňujúce
-fotografiu sú crop faktor, uzávierka, clona a citlivosť.
+Aby fotoaparát mohol vôbec zachytiť nejakú fotografiu, potrebuje objektív. Každý objektív má niekoľko parametrov, najpodstatnejšími sú ohnisková vzdialenosť a tzv svetelnosť. Ďalšie parametre ovplyvňujúce fotografiu sú crop faktor, uzávierka, clona a citlivosť.
 
 ### Typy objektívov
 
-V súčastnosti sa väčšinou používajú tzv. *zoom objektívy*. Na rozdieľ od
-*pevných (fixných) objektívov(skiel)* sa jedná o objektívy s premenlivou
-ohniskovou vzdialenosťou. Zoom objektívy sú flexibilnejšie za cenu
-zložitejšiej konštrukcie a z toho vyplývajúcej vyššiej ceny, váhy a
-rozmerov pri zachovaní tých istých optických vlastností ako pevný
-objektív na danej ohniskovej vzdialenosti. Pokiaľ je prioritou vyššia
-kvalita, nižšia cena alebo lepšie parametre, je väčšinou jedinou
-možnosťou fix.
+V súčastnosti sa väčšinou používajú tzv. *zoom objektívy*. Na rozdieľ od *pevných (fixných) objektívov(skiel)* sa jedná o objektívy s premenlivou ohniskovou vzdialenosťou. Zoom objektívy sú flexibilnejšie za cenu zložitejšiej konštrukcie a z toho vyplývajúcej vyššiej ceny, váhy a rozmerov pri zachovaní tých istých optických vlastností ako pevný objektív na danej ohniskovej vzdialenosti. Pokiaľ je prioritou vyššia kvalita, nižšia cena alebo lepšie parametre, je väčšinou jedinou možnosťou fix.
 
 ### Crop faktor
 
-*Crop faktor* je pomer medzi dĺžkou uhlopriečky snímača s dĺžkou
-uhlopriečky 35mm kinofilmového políčka. Toto číslo sa dá používať
-napríklad pre porovnávanie ohniskových vzdialeností, hĺbiek ostrostí
-objektívov a pod. Crop faktory najbežnejších systémov:
-
-mobilné telefóny – crop faktor 27 $\sim$ 6
-
-kompaktné fotoaparáty – crop faktor 5.6 $\sim$ 6
-
-Micro 4/3 a 4/3 – crop faktor 2
-
-Canon APS-C – crop faktor 1.6
-
-Nikon, Fuji, Sony APS-C – crop faktor 1.5
-
-tzv. full frame fotoaparáty a 35mm kinofilm – crop faktor 1
+*Crop faktor* je pomer medzi dĺžkou uhlopriečky snímača s dĺžkou uhlopriečky 35mm kinofilmového políčka. Toto číslo sa dá používať napríklad pre porovnávanie ohniskových vzdialeností, hĺbiek ostrostí objektívov a pod. Crop faktory najbežnejších systémov:
+* mobilné telefóny – crop faktor 27 ~ 6
+* kompaktné fotoaparáty – crop faktor 5.6 ~ 6
+* Micro 4/3 a 4/3 – crop faktor 2
+* Canon APS-C – crop faktor 1.6
+* Nikon, Fuji, Sony APS-C – crop faktor 1.5
+* tzv. full frame fotoaparáty a 35mm kinofilm – crop faktor 1
 
 ### Ohnisková vzdialenosť
 
@@ -172,4 +132,3 @@ zaostrené na text v spodnej časti ciferníku.
 ![clona 13](samples/clock-f13.jpg)
 
 ![clona 18](samples/clock-f18.jpg)
-
