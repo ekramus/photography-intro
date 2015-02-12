@@ -17,6 +17,7 @@ V súčastnosti sa väčšinou používajú tzv. *zoom objektívy*. Na rozdieľ 
 ### Crop faktor
 
 *Crop faktor* je pomer medzi dĺžkou uhlopriečky snímača s dĺžkou uhlopriečky 35mm kinofilmového políčka. Toto číslo sa dá používať napríklad pre porovnávanie ohniskových vzdialeností, hĺbiek ostrostí objektívov a pod. Crop faktory najbežnejších systémov:
+
 * mobilné telefóny – crop faktor 27 ~ 6
 * kompaktné fotoaparáty – crop faktor 5.6 ~ 6
 * Micro 4/3 a 4/3 – crop faktor 2
