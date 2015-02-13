@@ -80,4 +80,4 @@ Treťiou komplikovanou kapitolou je hĺbka ostrosti. Hĺbku ostrosti ovplyvňuje
 
 A nakoniec, ani uzávierka nie je úplne triviálna, obzvlášť v kombinácii s bleskom alebo rýchlym pohybom.
 
-Pre podrobnejšie informácie viď [webové stránky s tutoriálmi Cambridge in colour](http://www.cambridgeincolour.com/tutorials.htm). A ešte jedno čítanie, či [záleží na veľkosťi fotobuniek](http://www.clarkvision.com/articles/does.pixel.size.matter/).
+Pre podrobnejšie informácie viď [webové stránky s tutoriálmi Cambridge in colour](http://www.cambridgeincolour.com/tutorials.htm). A ešte jedno čítanie, či [záleží na veľkosti fotobuniek](http://www.clarkvision.com/articles/does.pixel.size.matter/).
