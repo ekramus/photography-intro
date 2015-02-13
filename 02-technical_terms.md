@@ -62,3 +62,22 @@ Na následujúcich fotografiách je ukážka vplyvu clony na hĺbku ostrosti. Ta
 ![clona 13](img/clock-f13.jpg)
 
 ![clona 18](img/clock-f18.jpg)
+
+### Citlivosť
+
+*Citlivosť* snímača, alebo aj *ISO*, je číselná hodnota, ktorá definuje citlivosť snímača na svetlo. Hodnoty na tejto stupnici sú obecne porovnateľné medzi jednotlivými systémami. Platí, že čím väčšie je číslo (citlivosť), tým menej svetla musí dopadnúť na snímač, aby vykreslil záber. Zároveň ale platí, že čím väčšia je citlivosť, tým viac artefaktov (šumu) zanáša snímač do signálu (obrázku). Tento vzťah platí aj pre veľkosť snímača, ale obrátene. Čím menší je snímač, tým viac šumu pri tej istej citlivosti. Preto mobilné telefóny niesú väčšinou použiteľné pre nočnú fotografiu.
+
+Cez deň je na väčšinu záberov v exteriéroch bohato postačujúca citlivosť okolo 200, v interiéroch ju bude treba zvýšiť na 800 a v noci a pri umelom osvetlení bude aj 1600 na hrane.
+
+Drobnosti pre zvedavých
+-----------------------
+
+Tu uvedené vzťahy sú väčšinou zjednodušené. Napríklad, pri fotografovaní krajiny sa snažíme zvoliť čo najvyäčšie clonové číslo, berieme ale ohľad aj na difrakciu. Difrakcia spôsobuje stratu ostrosti obrazu a zobrazenia detailov v závislosti na zväčšujúcom sa clonovom čísle. To, kedy sa začne prejavovať, súvisí aj s optickou stavbou objektívu a s veľkosťou fotocitlivých buniek snímača.
+
+Vzťah medzi veľkosťou snímača a suvisiacim šumom pri tej istej citlivosti je taktiež komplikovanejší, ako sa môže na prvý pohľad zdať. Komplikácií je totiž niekoľko. Za prvé, čím menší snímač, tým menšie sú fotocitlivé bunky pri tom istom rozlíšení. Za druhé ale vzhľadom na časticový charakter fotónov platí, že za jednotku času na menšiu plochu dopadne fotónov menej, ako na plochu väčšiu. Keďže je tento pomer menší o druhú mocninu crop faktoru, malý snímač musí byť schopný detekovať rádovo menšie množstvo fotónov, čo vedie až na rôzne kvantové javy, preskakovanie fotónov medzi jednotlivými bunkami a podobne.
+
+Treťiou komplikovanou kapitolou je hĺbka ostrosti. Hĺbku ostrosti ovplyvňuje reálna ohnisková vzdialenosť objektívu, vzdialenosť fotografovaného objektu, použitá clona a veľkosť fotocitlivých buniek snímača. Nepriamo sa táto závislosť teda vzťahuje aj na veľkosť senzoru.
+
+A nakoniec, ani uzávierka nie je úplne triviálna, obzvlášť v kombinácii s bleskom alebo rýchlym pohybom.
+
+Pre podrobnejšie informácie viď [webové stránky s tutoriálmi Cambridge in colour](http://www.cambridgeincolour.com/tutorials.htm). A ešte jedno čítanie, či [záleží na veľkosťi fotobuniek](http://www.clarkvision.com/articles/does.pixel.size.matter/).
