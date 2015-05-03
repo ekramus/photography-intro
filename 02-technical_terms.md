@@ -81,3 +81,6 @@ Treťiou komplikovanou kapitolou je hĺbka ostrosti. Hĺbku ostrosti ovplyvňuje
 A nakoniec, ani uzávierka nie je úplne triviálna, obzvlášť v kombinácii s bleskom alebo rýchlym pohybom.
 
 Pre podrobnejšie informácie viď [webové stránky s tutoriálmi Cambridge in colour](http://www.cambridgeincolour.com/tutorials.htm). A ešte jedno čítanie, či [záleží na veľkosti fotobuniek](http://www.clarkvision.com/articles/does.pixel.size.matter/).
+
+* [DPReview - What is equivalence and why should I care?](http://www.dpreview.com/articles/2666934640/what-is-equivalence-and-why-should-i-care)
+* [DPReview - Let me try to address that...](http://www.dpreview.com/articles/5365920428/let-me-try-to-address-that)
