@@ -83,4 +83,6 @@ A nakoniec, ani uzávierka nie je úplne triviálna, obzvlášť v kombinácii s
 Pre podrobnejšie informácie viď [webové stránky s tutoriálmi Cambridge in colour](http://www.cambridgeincolour.com/tutorials.htm). A ešte jedno čítanie, či [záleží na veľkosti fotobuniek](http://www.clarkvision.com/articles/does.pixel.size.matter/).
 
 * [DPReview - What is equivalence and why should I care?](http://www.dpreview.com/articles/2666934640/what-is-equivalence-and-why-should-i-care)
-* [DPReview - Let me try to address that...](http://www.dpreview.com/articles/5365920428/let-me-try-to-address-that)
+* [DPReview - The effect of pixel size on noise](http://www.dpreview.com/articles/5365920428/the-effect-of-pixel-and-sensor-sizes-on-noise)
+* [DPReview - What's that noise? Shedding some light on the sources of noise](http://www.dpreview.com/articles/8189925268/what-s-that-noise-shedding-some-light-on-the-sources-of-noise)
+* [DPReview - Sources of noise part two: Electronic Noise](http://www.dpreview.com/articles/0388507676/sources-of-noise-part-two-electronic-noise)
