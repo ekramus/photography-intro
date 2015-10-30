@@ -1,10 +1,8 @@
-Práca s fototechnikou
-=====================
+# Práca s fototechnikou
 
 Keď na fotoaparáte stlačíte spúšť, donútite vlastne svetlo, aby bolo vaším maliarom. Ako je to ale možné?
 
-Ako to celé funguje
--------------------
+## Ako to celé funguje
 
 Objektív premieta svetlo na snímaciu plochu, v súčasnosti digitálny snímač. Toto svetlo postupne vytvára finálnu fotografiu. Je to to isté, ako keď maliar postupne maľuje obraz.
 
@@ -69,8 +67,7 @@ Na následujúcich fotografiách je ukážka vplyvu clony na hĺbku ostrosti. Ta
 
 Cez deň je na väčšinu záberov v exteriéroch bohato postačujúca citlivosť okolo 200, v interiéroch ju bude treba zvýšiť na 800 a v noci a pri umelom osvetlení bude aj 1600 na hrane.
 
-Drobnosti pre zvedavých
------------------------
+## Drobnosti pre zvedavých
 
 Tu uvedené vzťahy sú väčšinou zjednodušené. Napríklad, pri fotografovaní krajiny sa snažíme zvoliť čo najvyäčšie clonové číslo, berieme ale ohľad aj na difrakciu. Difrakcia spôsobuje stratu ostrosti obrazu a zobrazenia detailov v závislosti na zväčšujúcom sa clonovom čísle. To, kedy sa začne prejavovať, súvisí aj s optickou stavbou objektívu a s veľkosťou fotocitlivých buniek snímača.
 
